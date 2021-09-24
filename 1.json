@@ -1,1 +1,18 @@
-#
+
+[
+    {
+        "id": "1",
+        "attribute": "color",
+        "value": "red"
+    },
+    {
+        "id": "2",
+        "attribute": "background",
+        "value": "blue"
+    },
+    {
+        "id": "3",
+        "attribute": "eyes",
+        "value": "sunglasses"
+    }
+]
